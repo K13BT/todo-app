@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+  
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  min-height: 100%;
+}
+
+#app {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+}
+
+button {
+  cursor: pointer;
+}
+
+
+.checkbox {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: transparent;
+  margin-right: 30px;
+  cursor: pointer;
+  border: 2px solid hsl(234, 11%, 52%);
+}
+
+.checkbox:hover {
+  border: 2px solid hsl(220, 98%, 61%);
+}
+
+
+.completed-check {
+  background-image: linear-gradient(hsl(192, 100%, 67%), hsl(280, 87%, 65%));
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: none;
+  margin-right: 30px;
+}
+
