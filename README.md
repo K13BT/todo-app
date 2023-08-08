@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/todo-app-with-vue-js-_NCY0f3KkM)
-- Live Site URL: [Add live site URL here](https://todo-app-sand-pi.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/todo-app-with-vue-js-_NCY0f3KkM)
+- Live Site URL: (https://todo-app-sand-pi.vercel.app/)
 
 ## My process
 
